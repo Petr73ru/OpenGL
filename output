@@ -1,0 +1,10 @@
+0x4082d8
+0x4082e0
+ERROR::SHADER::VERTEX::COMPILATION_FAILED
+0:1(1): error: syntax error, unexpected $undefined
+
+ERROR::SHADER::FRAGMENT::COMPILATION_FAILED
+0:1(1): error: syntax error, unexpected NEW_IDENTIFIER
+
+ERROR::SHADER::PROGRAM::LINKING_FAILED
+error: linking with uncompiled/unspecialized shadererror: linking with uncompiled/unspecialized shader
